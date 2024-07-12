@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/zero scene.unity
+    guid: 775b5168f5894a84496f27969acf2840
+  - enabled: 1
+    path: Assets/Scenes/main menu.unity
+    guid: 1704889db530f074485d767bdb468e98
+  - enabled: 1
+    path: Assets/Scenes/current player.unity
+    guid: d62246694964ae44d95e97f762e3c9c5
+  - enabled: 1
+    path: Assets/Scenes/New player.unity
+    guid: d428f7b90dd0ce842894ba298e7bec6f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/lvl4.unity
+    guid: 74a719ce0ffaa324bb2e2a803b13fe37
+  - enabled: 1
+    path: Assets/Scenes/lvl5.unity
+    guid: 0c18a27d8c383bc4fa0f0d89a567d0ea
+  - enabled: 1
+    path: Assets/Scenes/History.unity
+    guid: cb851192207575449b8b51a1e810a648
+  - enabled: 1
+    path: Assets/Scenes/custom memory game.unity
+    guid: 235432b1b3a856e4692495a085139e8e
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: 025b625debe663e47826fb31db716e73
+  - enabled: 1
+    path: Assets/Scenes/customlvl4.unity
+    guid: b5128d2bfdc69964fa7133f54872c411
+  - enabled: 1
+    path: Assets/Scenes/custom lvl4.unity
+    guid: b3812bd11c15b614e9e356ebf0bd7e4d
+  - enabled: 1
+    path: Assets/Scenes/customlvl5.unity
+    guid: 705d476d49ab91448832d1de29eb8af4
+  m_configObjects: {}
